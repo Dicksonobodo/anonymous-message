@@ -2,7 +2,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
 
-import Home from "./pages/Home";
+import Home from "./pages/home";
 import Send from "./pages/Send";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
